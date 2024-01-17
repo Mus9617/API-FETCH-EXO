@@ -1,0 +1,14 @@
+.papi {
+  border: 2px solid black;
+  display: flex;
+  background-color: antiquewhite;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  background-color: blanchedalmond;
+  font-weight: 900;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+}
